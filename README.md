@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=240&amp;section=header&amp;text=2klips&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;&amp;descAlignY=51&amp;descAlign=62" style="max-width: 80%;">
 </div>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2klips&show_icons=true&theme=radical) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minwoo3333&show_icons=true&theme=radical) -->
 <div align="center">
 ### minwoo3333 전민우's Github
 ### :히죽거리는_고양이::웃는_고양이::웃고_있는_고양이:
