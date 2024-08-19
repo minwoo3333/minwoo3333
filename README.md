@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### minwoo3333 전민우's Github
+### 전민우's Github
 
 ### 🐣🐤🐥
 
